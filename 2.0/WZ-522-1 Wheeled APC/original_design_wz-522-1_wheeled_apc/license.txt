@@ -1,0 +1,8 @@
+Model Information:
+* title:	[Original Design] WZ-522-1 Wheeled APC
+* source:	https://sketchfab.com/3d-models/original-design-wz-522-1-wheeled-apc-d58c5e38c335444380d73cb56f38fbbd
+* author:	EXcalibur117 (https://sketchfab.com/EXcalibur117)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
